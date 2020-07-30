@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DataCruncherTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-07-23T22:05:46" hostname="LAPTOP-Jeremy" time="21.651">
+  <properties/>
+  <testcase name="getCustomerIdsWithNumberOfFraudulentTransactions" classname="DataCruncherTest" time="1.488"/>
+  <testcase name="getAllTransactionSortedByAmount" classname="DataCruncherTest" time="1.516"/>
+  <testcase name="getRiskFraudFigureTest" classname="DataCruncherTest" time="3.395"/>
+  <testcase name="getTotalNumberOfFraudulentTransactions" classname="DataCruncherTest" time="1.138"/>
+  <testcase name="getCustomerIdToNumberOfTransactions" classname="DataCruncherTest" time="1.19"/>
+  <testcase name="getFraudulentTransactionsForMerchantId" classname="DataCruncherTest" time="1.297"/>
+  <testcase name="readAllTransactions" classname="DataCruncherTest" time="1.11"/>
+  <testcase name="getMerchantIdToTotalAmountOfFraudulentTransactions" classname="DataCruncherTest" time="1.174"/>
+  <testcase name="getTransactionForMerchantId" classname="DataCruncherTest" time="2.41"/>
+  <testcase name="getUniqueMerchantIds" classname="DataCruncherTest" time="1.169"/>
+  <testcase name="getTotalNumberOfTransactions" classname="DataCruncherTest" time="2.287"/>
+  <testcase name="getFraudPercentageForMen" classname="DataCruncherTest" time="2.326"/>
+  <testcase name="readAllTransactionsAge0" classname="DataCruncherTest" time="1.15"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
